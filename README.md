@@ -1,5 +1,4 @@
-<div>
-  <p align="center">
+<div align="center">
     <img src="https://i.imgur.com/A59Sjhi.png" width="300" height="300"/></p>
 </div>
 
@@ -13,6 +12,7 @@
 
   
   <p style="text-align:center"> Self-taught artist who loves designing characters for games. </p>
+  <a href="https://tamanotchi.world/21586c"><img src="https://tamanotchi.world/i2/21586" alt="FEED US!"></a>
   <p style="text-align:center"> </p>
   <p align="center">
 
